@@ -1,0 +1,16 @@
+# Données volumineuses Lending Club (trop lourdes pour GitHub, régénérables)
+loan.csv
+lending_club_defaults.csv
+
+# Métadonnées Claude
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
